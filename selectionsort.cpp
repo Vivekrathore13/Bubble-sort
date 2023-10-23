@@ -9,7 +9,6 @@ int main(){
     for(int i=0;i<n;i++){
         cin>>arr[i];
     }
-    cout<<"Shailendra yadav : 0832CS221184"<<endl;
      for(int i=0;i<n;i++){
         cout<<arr[i]<<" ";
         }
